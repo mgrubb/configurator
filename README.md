@@ -30,7 +30,7 @@ FIXME
 
 ## Contributing
 
-This project uses (git-flow)[http://nvie.com/posts/a-successful-git-branching-model/] branching model.
+This project uses the [git-flow](http://nvie.com/posts/a-successful-git-branching-model/) branching model.
 
 Pull requests are certainly welcome.
 
